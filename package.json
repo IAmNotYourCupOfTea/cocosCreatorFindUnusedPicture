@@ -1,0 +1,11 @@
+{
+  "name": "findunusepic",
+  "version": "1.0.0",
+  "description": "该脚本可以过滤出除动态加载外的所有未被引用的图片,使用者可以根据对项目的了解删除未引用的图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wwx",
+  "license": "ISC"
+}
